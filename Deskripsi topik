@@ -1,1 +1,13 @@
 Topik Penelitian : 
+Implementasi Teknik Boundary Value Analysis dalam Pengujian Sistem dengan Metode Blackbox pada Aplikasi x (Studi Kasus PT Otak Kanan)
+Tujuan : 
+1. Untuk menguji keefektifan dan kualitas aplikasi x di perusahaan PT Otak Kanan
+2. Untuk mengetahui apakah aplikasi x sudah berjalan sesuai fungsionalitasnya
+3. Untuk menemukam nilai efektifitas pada aplikasi x
+4. Untuk menemukan kesalahan atau error dan memberikan rekomendasi perbaikan sistem
+Rumusan Masalah : 
+1. Bagaimana penerapan metode blackbox menggunakan teknik boundary value analysis dalam pengujian sistem pada aplikasi x?
+2. Apakah aplikasi x sudah berjalan sesuai fungsionalitasnya?
+3. Bagaimanakah nilai efektifitas pengujian sistem dengan teknik boundary value analysis pada aplikasi x?
+4. Apakah terdapat kesalahan atau eror dalam sistem dan rekomendasi perbaikannya?
+Pengumpulan Data : Observasi dan wawancara langsung dengan Kepala bagian IT perusahaan

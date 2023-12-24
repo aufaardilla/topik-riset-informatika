@@ -49,15 +49,21 @@ DATASET <br>
 Dataset yang digunakan dalam pengujian sistem berupa skenario pengujian sesuai dengan sistem yang akan diuji. Misalnya, dataset pengujian formulir pendaftaran, dataset URL dengan parameter yang berbeda, dan dataset berbagai tipe file yang dapat diunggah.
 
 <hr>
-METRIK PENGUJIAN <br>
-a. Functionality Coverage <br>
-- Requirement Coverage: Persentase persyaratan fungsional yang telah diuji
-- Use Case Coverage: Persentase skenario use case yang telah diuji
-b. Testing Effort <br>
-- Test Case Execution Time: Waktu yang diperlukan untuk menjalankan semua kasus uji.
-- Test Case Preparation Time: Waktu yang diperlukan untuk menyiapkan kasus uji.
-c. Usability Metrics <br>
-- User Satisfaction: Mengukur tingkat kepuasan pengguna terhadap antarmuka dan pengalaman pengguna.
-- Error Frequency: Jumlah kesalahan atau kegagalan interaksi pengguna selama pengujian.
+METRIK PENGUJIAN 
+
+1. Functionality Coverage
+   - Requirement Coverage: Persentase persyaratan fungsional yang telah diuji
+   - Use Case Coverage: Persentase skenario use case yang telah diuji
+2. Testing Effort
+   - Test Case Execution Time: Waktu yang diperlukan untuk menjalankan semua kasus uji
+   - Test Case Preparation Time: Waktu yang diperlukan untuk menyiapkan kasus uji.
+3. Usability Metrics
+   - User Satisfaction: Mengukur tingkat kepuasan pengguna terhadap antarmuka dan pengalaman pengguna.
+   - Error Frequency: Jumlah kesalahan atau kegagalan interaksi pengguna selama pengujian.
 
 <hr>
+GAMBAR PENDUKUNG (WAWANCARA / OBSERVASI LANGSUNG KE LAPANGAN) <br>
+![penelitian aufa](https://github.com/aufaardilla/topik-riset-informatika/assets/106051255/0b78f068-905d-4a3b-817d-c00feddea916)
+
+
+

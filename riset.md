@@ -28,3 +28,36 @@ Penelitian ini mengambil topik analisa dan pengujian sistem dengan studi kasus p
 - Pengujian dilakukan pada sisi pengguna dan admin.
 - Pengujian berfokus untuk menguji fungsionalitas dan interface sistem tanpa perlu mengetahui kode program di dalamnya.
 - Hasil akhir dari pengujian ini adalah nilai efektivitas aplikasi serta rekomendasi perbaikan apabila ditemukan kesalahan atau kelemahan sistem.
+
+<hr>
+METODE YANG DIGUNAKAN <br>
+Metode Black Box Testing dengan teknik Equivalence Partitioning dan Boundary Value Analysis
+<hr>
+
+REFERENSI
+- Amalia, A., Putri Hamidah, S. W., & Kristanto, T. (2021). Pengujian Black Box Menggunakan Teknik Equivalence Partitions Pada Aplikasi E-Learning Berbasis Web. Building of Informatics, Technology and Science (BITS), 3(3), 269–274. https://doi.org/10.47065/bits.v3i3.1062
+- Andriansyah, D., Nusa, S., & Jakarta, M. (2018). Pengujian Kotak Hitam Boundary Value Analysis Pada Sistem Informasi Manajemen Konseling Tugas Akhir. Dalam Ijns.org Indonesian Journal on Networking and Security (Vol. 7, Nomor 1). Online.
+- Dika Pratama, S., & Noviarsyah Dadaprawira, M. (2023). Pengujian Black Box Testing Pada Aplikasi Edu Digital Berbasis Website Menggunakan Metode Equivalence Dan Boundary Value. Jurnal Teknologi Sistem Informasi dan Sistem Komputer TGD, 6(2), 560–569. https://ojs.trigunadharma.ac.id/index.php/jsk/index
+- Nur Ichsanudin, M., Yusuf, M., Jurusan Rekayasa Sistem Komputer, S., Teknik Industri, J., AKPRIND Yogyakarta, I., & Artikel, R. (2022). PENGUJIAN FUNGSIONAL PERANGKAT LUNAK SISTEM INFORMASI PERPUSTAKAAN DENGAN METODE BLACK BOX TESTING BAGI PEMULA INFO ARTIKEL ABSTRAK. 1(2), 1–8. https://doi.org/10.55123
+- Nurfauziah, H., & Jamaliyah, I. (2022). PERBANDINGAN METODE TESTING ANTARA BLACKBOX DENGAN WHITEBOX PADA SEBUAH SISTEM INFORMASI. 8(2).
+- Rifqi, A., Arfani, Y., Kasih, P., & Pamungkas, D. P. (t.t.). Pengujian Aplikasi Presensi dengan Black box Testing dengan Metode Equivalence Partitioning dan Boundary Value Analysis.
+- Snadhika Jaya, T., Studi Manajemen Informatika, P., Ekonomi dan Bisnis, J., & Negeri Lampung JlnSoekarno, P. (2018). Pengujian Aplikasi dengan Metode Blackbox Testing Boundary Value Analysis (Studi Kasus: Kantor Digital Politeknik Negeri Lampung). Jurnal Informatika: Jurnal Pengembangan IT (JPIT), 03(02).
+- Syah Anwar Kesuma Jaya, M., Gumilang, P., Philipus Andersen, Y., & Teti Desyani, dan. (2019). Pengujian Black Box pada Aplikasi Sistem Penunjang Keputusan Seleksi Calon Pegawai Negeri Sipil Menggunakan Teknik Equivalence Partitions. 4(4), 2622–4615. http://openjournal.unpam.ac.id/index.php/informatika
+
+<hr>
+DATASET <br>
+Dataset yang digunakan dalam pengujian sistem berupa skenario pengujian sesuai dengan sistem yang akan diuji. Misalnya, dataset pengujian formulir pendaftaran, dataset URL dengan parameter yang berbeda, dan dataset berbagai tipe file yang dapat diunggah.
+
+<hr>
+METRIK PENGUJIAN <br>
+a. Functionality Coverage <br>
+- Requirement Coverage: Persentase persyaratan fungsional yang telah diuji
+- Use Case Coverage: Persentase skenario use case yang telah diuji
+b. Testing Effort <br>
+- Test Case Execution Time: Waktu yang diperlukan untuk menjalankan semua kasus uji.
+- Test Case Preparation Time: Waktu yang diperlukan untuk menyiapkan kasus uji.
+c. Usability Metrics <br>
+- User Satisfaction: Mengukur tingkat kepuasan pengguna terhadap antarmuka dan pengalaman pengguna.
+- Error Frequency: Jumlah kesalahan atau kegagalan interaksi pengguna selama pengujian.
+
+<hr>

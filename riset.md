@@ -65,5 +65,10 @@ METRIK PENGUJIAN
 GAMBAR PENDUKUNG (WAWANCARA / OBSERVASI LANGSUNG KE LAPANGAN) <br>
 ![penelitian aufa](https://github.com/aufaardilla/topik-riset-informatika/assets/106051255/0b78f068-905d-4a3b-817d-c00feddea916)
 
+<hr>
+DRAFT PAPPER/JURNAL
+[draft papper riset.pdf](https://github.com/aufaardilla/topik-riset-informatika/files/13762365/draft.papper.riset.pdf)
+
+
 
 
